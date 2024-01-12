@@ -1,0 +1,67 @@
+#root {
+  text-align: center;
+}
+
+.bodyApp {
+  background-color:#e6e6ff;
+  border: 2px solid black;
+}
+
+.navbarImg{
+  width:30px;
+  height:30px;
+  margin-right: 8px;
+}
+
+/*ACCORDATION WEEK*/
+.accordationBody{
+  background-color: #cff4fc;
+}
+/*BUTTON GROUP*/
+.btnGroup{
+  flex-wrap: wrap;
+}
+/*FOOTER*/
+.navbarFooter{      
+  color: #ddccff;
+}
+/*HEADER*/
+.linkWork{
+  margin-left: 8px;
+}
+/*LISTFOOD*/
+.listfoodContainer{
+  background-color: #cff4fc;
+}
+/*MODAL*/
+.modalHeader{
+  background-color: #9eeaf9;
+}
+.modalBody{
+  background-color: #cff4fc;
+}
+.modalFooter{
+  background-color: #9eeaf9 !important;
+}
+/*TABS*/
+.allTabs{
+  background-color: #ddccff;
+  border-radius: 10px 10px 0 0;
+}
+.singleTab{
+  background-color: #ddccff;
+  border: 2px solid black;
+  border-radius: 0 0 10px 10px;
+}
+/*TABLE*/
+.spanBold{
+  font-weight: bold;
+}
+/*USERLINK*/
+.userNav{
+  font-size:medium;
+  padding-right: 10px;
+}
+.userLink{
+  text-align:center !important;
+}

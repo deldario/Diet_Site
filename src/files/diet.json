@@ -1,0 +1,1013 @@
+[
+    {
+        "id" :  "Week 1",
+        "diet":[
+            {
+                "id"    : "Monday",
+                "menu"  : [
+                    {
+                        "id" : "Breakfast",
+                        "foodlist" : [
+                            {"id" : "pane di segale", "num" : 0, "qta" : 30},
+                            {"id" : "yogurt greco fage total 0%", "num" : 1, "qta" : 150},
+                            {"id" : "banana + mirtilli", "num" : 0, "qta" : 100}
+                        ]
+                    },
+                    {
+                        "id" : "Snack",
+                        "foodlist" : [
+                            {"id" : "pavesini", "num" : 1, "qta" : 20}
+                        ]
+                    },
+                    {
+                        "id" : "Snack 2",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Lunch",
+                        "foodlist" : [
+                            {"id" : "cous cous", "num" : 0, "qta" : 80},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "gamberetti freschi", "num" : 0, "qta" : 150},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 100}
+                        ]
+                    },
+                    {
+                        "id" : "Afternoon snack",
+                        "foodlist" : [
+                            {"id" : "fage total 0% split cup", "num" : 1, "qta" : 170}
+                        ]
+                    },
+                    {
+                        "id" : "Dinner",
+                        "foodlist" : [
+                            {"id" : "pane integrale", "num" : 0, "qta" : 50},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "misto di legumi secchi", "num" : 0, "qta" : 50},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 200}
+                        ]
+                    }
+                ] 
+            },
+            {
+                "id"    : "Tuesday",
+                "menu"  : [
+                    {
+                        "id" : "Breakfast",
+                        "foodlist" : [
+                            {"id" : "activia mix & go", "num" : 1, "qta" : 170},
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 100}
+                        ]
+                    },
+                    {
+                        "id" : "Snack",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Snack 2",
+                        "foodlist" : [
+                            {"id" : "budino proteico", "num" : 1, "qta" : 200}
+                        ]
+                    },
+                    {
+                        "id" : "Lunch",
+                        "foodlist" : [
+                            {"id" : "pasta di semola", "num" : 0, "qta" : 70},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "prosciutto cotto a cubetti beretta", "num" : 0, "qta" : 60},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 100}
+                        ]
+                    },
+                    {
+                        "id" : "Afternoon snack",
+                        "foodlist" : [
+                            {"id" : "crackers integrali", "num" : 1, "qta" : 30},
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 180}
+                        ]
+                    },
+                    {
+                        "id" : "Dinner",
+                        "foodlist" : [
+                            {"id" : "pane integrale", "num" : 0, "qta" : 50},
+                            {"id" : "merluzzo", "num" : 0, "qta" : 150},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 5},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 200}
+                        ]
+                    }
+                ] 
+            },
+            {
+                "id"    : "Wednesday",
+                "menu"  : [
+                    {
+                        "id" : "Breakfast",
+                        "foodlist" : [
+                            {"id" : "pane di segale", "num" : 0, "qta" : 70},
+                            {"id" : "fesa di tacchino", "num" : 0, "qta" : 50}
+                        ]
+                    },
+                    {
+                        "id" : "Snack",
+                        "foodlist" : [
+                            {"id" : "yogurt greco fage total 0%", "num" : 1, "qta" : 150},
+                            {"id" : "miele", "num" : 0, "qta" : 10}
+                        ]
+                    },
+                    {
+                        "id" : "Snack 2",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Lunch",
+                        "foodlist" : [
+                            {"id" : "pasta di semola", "num" : 0, "qta" : 80},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "ceci valfrutta in vetro", "num" : 0, "qta" : 80},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 100}
+                        ]
+                    },
+                    {
+                        "id" : "Afternoon snack",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 180},
+                            {"id" : "mandorle", "num" : 0, "qta" : 10}
+                        ]
+                    },
+                    {
+                        "id" : "Dinner",
+                        "foodlist" : [
+                            {"id" : "pane integrale", "num" : 0, "qta" : 50},
+                            {"id" : "filetto di vitello", "num" : 0, "qta" : 130},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 200}
+                        ]
+                    }
+                ] 
+            },
+            {
+                "id"    : "Thursday",
+                "menu"  : [
+                    {
+                        "id" : "Breakfast",
+                        "foodlist" : [
+                            {"id" : "yogurt bianco activia 0%", "num" : 1, "qta" : 130},
+                            {"id" : "fette biscottate", "num" : 0, "qta" : 30},
+                            {"id" : "marmellata (normale e tipo frutta viva)", "num" : 0, "qta" : 15}
+                        ]
+                    },
+                    {
+                        "id" : "Snack",
+                        "foodlist" : [
+                            {"id" : "barretta fitness", "num" : 1, "qta" : 23}
+                        ]
+                    },
+                    {
+                        "id" : "Snack 2",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Lunch",
+                        "foodlist" : [
+                            {"id" : "pasta di semola", "num" : 0, "qta" : 70},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "tonno al naturale", "num" : 0, "qta" : 60},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 100}
+                        ]
+                    },
+                    {
+                        "id" : "Afternoon snack",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150},
+                            {"id" : "pane di segale", "num" : 0, "qta" : 50},
+                            {"id" : "fesa di tacchino", "num" : 0, "qta" : 50}
+                        ]
+                    },
+                    {
+                        "id" : "Dinner",
+                        "foodlist" : [
+                            {"id" : "pane integrale", "num" : 0, "qta" : 50},
+                            {"id" : "uova di gallina", "num" : 1, "qta" : 60},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 5},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 200}
+                        ]
+                    }
+                ] 
+            },
+            {
+                "id"    : "Friday",
+                "menu"  : [
+                    {
+                        "id" : "Breakfast",
+                        "foodlist" : [
+                            {"id" : "yogurt bianco activia 0%", "num" : 1, "qta" : 130},
+                            {"id" : "pane di segale", "num" : 0, "qta" : 50},
+                            {"id" : "marmellata (normale e tipo frutta viva)", "num" : 0, "qta" : 20}
+                        ]
+                    },
+                    {
+                        "id" : "Snack",
+                        "foodlist" : [
+                            {"id" : "fage total 0% split cup", "num" : 1, "qta" : 170}
+                        ]
+                    },
+                    {
+                        "id" : "Snack 2",
+                        "foodlist" : [
+                            {"id" : "barretta fitness", "num" : 1, "qta" : 23}
+                        ]
+                    },
+                    {
+                        "id" : "Lunch",
+                        "foodlist" : [
+                            {"id" : "pasta di semola", "num" : 0, "qta" : 80},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 5},
+                            {"id" : "ricotta di vacca", "num" : 0, "qta" : 100},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 100}
+                        ]
+                    },
+                    {
+                        "id" : "Afternoon snack",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 180}
+                        ]
+                    },
+                    {
+                        "id" : "Dinner",
+                        "foodlist" : [
+                            {"id" : "pane integrale", "num" : 0, "qta" : 50},
+                            {"id" : "pesce persico", "num" : 0, "qta" : 200},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 200}
+                        ]
+                    }
+                ] 
+            },
+            {
+                "id"    : "Saturday",
+                "menu"  : [
+                    {
+                        "id" : "Breakfast",
+                        "foodlist" : [
+                            {"id" : "activia mix & go", "num" : 1, "qta" : 170}
+                        ]
+                    },
+                    {
+                        "id" : "Snack",
+                        "foodlist" : [
+                            {"id" : "mandorle", "num" : 0, "qta" : 10}
+                        ]
+                    },
+                    {
+                        "id" : "Snack 2",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Lunch",
+                        "foodlist" : [
+                            {"id" : "patate", "num" : 0, "qta" : 120},
+                            {"id" : "coscia di pollo (senza pelle e ossa)", "num" : 0, "qta" : 130},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 200}
+                        ]
+                    },
+                    {
+                        "id" : "Afternoon snack",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150},
+                            {"id" : "parmigiano reggiano", "num" : 0, "qta" : 20}
+                        ]
+                    },
+                    {
+                        "id" : "Dinner",
+                        "foodlist" : [
+                            {"id" : "pasto libero", "num" : 0, "qta" : 100}
+                        ]
+                    }
+                ] 
+            },
+            {
+                "id"    : "Sunday",
+                "menu"  : [
+                    {
+                        "id" : "Breakfast",
+                        "foodlist" : [
+                            {"id" : "pane di segale", "num" : 0, "qta" : 70},
+                            {"id" : "prosciutto cotto senza grasso", "num" : 0, "qta" : 40}
+                        ]
+                    },
+                    {
+                        "id" : "Snack",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Lunch",
+                        "foodlist" : [
+                            {"id" : "gnocchetti di patate giovanni rana", "num" : 0, "qta" : 230},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "mozzarella light milbona", "num" : 1, "qta" : 90},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 100}
+                        ]
+                    },
+                    {
+                        "id" : "Afternoon snack",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Dinner",
+                        "foodlist" : [
+                            {"id" : "patate", "num" : 0, "qta" : 220},
+                            {"id" : "sogliola", "num" : 0, "qta" : 170},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 200}
+                        ]
+                    }
+                ] 
+            }
+        ]
+    },
+    {
+        "id" :  "Week 2",
+        "diet":[
+            {
+                "id"    : "Monday",
+                "menu"  : [
+                    {
+                        "id" : "Breakfast",
+                        "foodlist" : [
+                            {"id" : "pane di segale", "num" : 0, "qta" : 60},
+                            {"id" : "fesa di tacchino", "num" : 0, "qta" : 50},
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Snack",
+                        "foodlist" : [
+                            {"id" : "fage total 0% split cup", "num" : 1, "qta" : 170}
+                        ]
+                    },
+                    {
+                        "id" : "Snack 2",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Lunch",
+                        "foodlist" : [
+                            {"id" : "cous cous", "num" : 0, "qta" : 80},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "gamberetti freschi", "num" : 0, "qta" : 120},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 100}
+                        ]
+                    },
+                    {
+                        "id" : "Afternoon snack",
+                        "foodlist" : [
+                            {"id" : "barretta fitness", "num" : 1, "qta" : 23}
+                        ]
+                    },
+                    {
+                        "id" : "Dinner",
+                        "foodlist" : [
+                            {"id" : "pane integrale", "num" : 0, "qta" : 50},
+                            {"id" : "uova di gallina", "num" : 1, "qta" : 60},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 5},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 200}
+                        ]
+                    }
+                ] 
+            },
+            {
+                "id"    : "Tuesday",
+                "menu"  : [
+                    {
+                        "id" : "Breakfast",
+                        "foodlist" : [
+                            {"id" : "activia mix & go", "num" : 1, "qta" : 170},
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 100}
+                        ]
+                    },
+                    {
+                        "id" : "Snack",
+                        "foodlist" : [
+                            {"id" : "budino proteico", "num" : 1, "qta" : 200}
+                        ]
+                    },
+                    {
+                        "id" : "Snack 2",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Lunch",
+                        "foodlist" : [
+                            {"id" : "pasta di semola", "num" : 0, "qta" : 80},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "filetto di vitello", "num" : 0, "qta" : 80},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 100}
+                        ]
+                    },
+                    {
+                        "id" : "Afternoon snack",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 180}
+                        ]
+                    },
+                    {
+                        "id" : "Dinner",
+                        "foodlist" : [
+                            {"id" : "pane integrale", "num" : 0, "qta" : 50},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 5},
+                            {"id" : "misto di legumi secchi", "num" : 0, "qta" : 50},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 200}
+                        ]
+                    }
+                ] 
+            },
+            {
+                "id"    : "Wednesday",
+                "menu"  : [
+                    {
+                        "id" : "Breakfast",
+                        "foodlist" : [
+                            {"id" : "yogurt greco fage total 0%", "num" : 1, "qta" : 150},
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 100}
+                        ]
+                    },
+                    {
+                        "id" : "Snack",
+                        "foodlist" : [
+                            {"id" : "pane di segale", "num" : 0, "qta" : 70},
+                            {"id" : "fesa di tacchino", "num" : 0, "qta" : 50}
+                        ]
+                    },
+                    {
+                        "id" : "Snack 2",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Lunch",
+                        "foodlist" : [
+                            {"id" : "riso basmati", "num" : 0, "qta" : 80},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "merluzzo", "num" : 0, "qta" : 100},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 100}
+                        ]
+                    },
+                    {
+                        "id" : "Afternoon snack",
+                        "foodlist" : [
+                            {"id" : "crackers integrali", "num" : 1, "qta" : 30}
+                        ]
+                    },
+                    {
+                        "id" : "Dinner",
+                        "foodlist" : [
+                            {"id" : "pane integrale", "num" : 0, "qta" : 50},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 5},
+                            {"id" : "mozzarella light milbona", "num" : 1, "qta" : 100},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 100}
+                        ]
+                    }
+                ] 
+            },
+            {
+                "id"    : "Thursday",
+                "menu"  : [
+                    {
+                        "id" : "Breakfast",
+                        "foodlist" : [
+                            {"id" : "yogurt bianco activia 0%", "num" : 1, "qta" : 130},
+                            {"id" : "fette biscottate", "num" : 0, "qta" : 30},
+                            {"id" : "marmellata (normale e tipo frutta viva)", "num" : 0, "qta" : 15}
+                        ]
+                    },
+                    {
+                        "id" : "Snack",
+                        "foodlist" : [
+                            {"id" : "nuvolatte Morato panini dolci al latte", "num" : 1, "qta" : 40},
+                            {"id" : "fesa di tacchino", "num" : 0, "qta" : 60}
+                        ]
+                    },
+                    {
+                        "id" : "Snack 2",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Lunch",
+                        "foodlist" : [
+                            {"id" : "pasta di semola", "num" : 0, "qta" : 80},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "ceci valfrutta in vetro", "num" : 0, "qta" : 80},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 100}
+                        ]
+                    },
+                    {
+                        "id" : "Afternoon snack",
+                        "foodlist" : [
+                            {"id" : "barretta fitness", "num" : 1, "qta" : 23}
+                        ]
+                    },
+                    {
+                        "id" : "Dinner",
+                        "foodlist" : [
+                            {"id" : "pane integrale", "num" : 0, "qta" : 50},
+                            {"id" : "merluzzo", "num" : 0, "qta" : 150},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 5},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 200}
+                        ]
+                    }
+                ] 
+            },
+            {
+                "id"    : "Friday",
+                "menu"  : [
+                    {
+                        "id" : "Breakfast",
+                        "foodlist" : [
+                            {"id" : "yogurt bianco activia 0%", "num" : 1, "qta" : 150},
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 100}
+                        ]
+                    },
+                    {
+                        "id" : "Snack",
+                        "foodlist" : [
+                            {"id" : "activia mix & go", "num" : 1, "qta" : 170}
+                        ]
+                    },
+                    {
+                        "id" : "Snack 2",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Lunch",
+                        "foodlist" : [
+                            {"id" : "gnocchetti di patate giovanni rana", "num" : 0, "qta" : 230},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "jocca fiocchi di latte", "num" : 1, "qta" : 150},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 100}
+                        ]
+                    },
+                    {
+                        "id" : "Afternoon snack",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 200}
+                        ]
+                    },
+                    {
+                        "id" : "Dinner",
+                        "foodlist" : [
+                            {"id" : "pane integrale", "num" : 0, "qta" : 50},
+                            {"id" : "filetto di vitello", "num" : 0, "qta" : 130},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 5},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 200}
+                        ]
+                    }
+                ] 
+            },
+            {
+                "id"    : "Saturday",
+                "menu"  : [
+                    {
+                        "id" : "Breakfast",
+                        "foodlist" : [
+                            {"id" : "vitalis porridge classico", "num" : 1, "qta" : 50}
+                        ]
+                    },
+                    {
+                        "id" : "Snack",
+                        "foodlist" : [
+                            {"id" : "mandorle", "num" : 0, "qta" : 10}
+                        ]
+                    },
+                    {
+                        "id" : "Snack 2",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Lunch",
+                        "foodlist" : [
+                            {"id" : "patate", "num" : 0, "qta" : 120},
+                            {"id" : "coscia di pollo (senza pelle e ossa)", "num" : 0, "qta" : 130},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 200}
+                        ]
+                    },
+                    {
+                        "id" : "Afternoon snack",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150},
+                            {"id" : "cioccolato extra fondente 85% lindt", "num" : 0, "qta" : 10}
+                        ]
+                    },
+                    {
+                        "id" : "Dinner",
+                        "foodlist" : [
+                            {"id" : "pasto libero", "num" : 0, "qta" : 100}
+                        ]
+                    }
+                ] 
+            },
+            {
+                "id"    : "Sunday",
+                "menu"  : [
+                    {
+                        "id" : "Breakfast",
+                        "foodlist" : [
+                            {"id" : "pane di segale", "num" : 0, "qta" : 70},
+                            {"id" : "prosciutto cotto senza grasso", "num" : 0, "qta" : 40}
+                        ]
+                    },
+                    {
+                        "id" : "Snack",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Lunch",
+                        "foodlist" : [
+                            {"id" : "gnocchetti di patate giovanni rana", "num" : 0, "qta" : 230},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "uova di gallina", "num" : 1, "qta" : 60},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 200}
+                        ]
+                    },
+                    {
+                        "id" : "Afternoon snack",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Dinner",
+                        "foodlist" : [
+                            {"id" : "pane integrale", "num" : 0, "qta" : 50},
+                            {"id" : "burger vegetariano valsoia", "num" : 2, "qta" : 150},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 200}
+                        ]
+                    }
+                ] 
+            }
+        ]
+    },
+    {
+        "id" :  "Week 3",
+        "diet":[
+            {
+                "id"    : "Monday",
+                "menu"  : [
+                    {
+                        "id" : "Breakfast",
+                        "foodlist" : [
+                            {"id" : "vitalis porridge classico", "num" : 1, "qta" : 50}
+                        ]
+                    },
+                    {
+                        "id" : "Snack",
+                        "foodlist" : [
+                            {"id" : "pane di segale", "num" : 0, "qta" : 50},
+                            {"id" : "bresaola", "num" : 0, "qta" : 40}
+                        ]
+                    },
+                    {
+                        "id" : "Snack 2",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Lunch",
+                        "foodlist" : [
+                            {"id" : "cous cous", "num" : 0, "qta" : 80},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "gamberetti freschi", "num" : 0, "qta" : 100},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 100}
+                        ]
+                    },
+                    {
+                        "id" : "Afternoon snack",
+                        "foodlist" : [
+                            {"id" : "barretta fitness", "num" : 1, "qta" : 23}
+                        ]
+                    },
+                    {
+                        "id" : "Dinner",
+                        "foodlist" : [
+                            {"id" : "pane integrale", "num" : 0, "qta" : 50},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "filetto di vitello", "num" : 0, "qta" : 130},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 200}
+                        ]
+                    }
+                ] 
+            },
+            {
+                "id"    : "Tuesday",
+                "menu"  : [
+                    {
+                        "id" : "Breakfast",
+                        "foodlist" : [
+                            {"id" : "activia mix & go", "num" : 1, "qta" : 170},
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 100}
+                        ]
+                    },
+                    {
+                        "id" : "Snack",
+                        "foodlist" : [
+                            {"id" : "budino proteico", "num" : 1, "qta" : 200}
+                        ]
+                    },
+                    {
+                        "id" : "Snack 2",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Lunch",
+                        "foodlist" : [
+                            {"id" : "pasta di semola", "num" : 0, "qta" : 80},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "ceci valfrutta in vetro", "num" : 0, "qta" : 80},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 100}
+                        ]
+                    },
+                    {
+                        "id" : "Afternoon snack",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 180}
+                        ]
+                    },
+                    {
+                        "id" : "Dinner",
+                        "foodlist" : [
+                            {"id" : "pane integrale", "num" : 0, "qta" : 50},
+                            {"id" : "petto di pollo", "num" : 0, "qta" : 140},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 200}
+                        ]
+                    }
+                ] 
+            },
+            {
+                "id"    : "Wednesday",
+                "menu"  : [
+                    {
+                        "id" : "Breakfast",
+                        "foodlist" : [
+                            {"id" : "pane di segale", "num" : 0, "qta" : 60},
+                            {"id" : "fesa di tacchino", "num" : 0, "qta" : 50}
+                        ]
+                    },
+                    {
+                        "id" : "Snack",
+                        "foodlist" : [
+                            {"id" : "fruyo fage vaniglia 0%", "num" : 1, "qta" : 170}
+                        ]
+                    },
+                    {
+                        "id" : "Snack 2",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Lunch",
+                        "foodlist" : [
+                            {"id" : "pasta di semola", "num" : 0, "qta" : 80},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "prosciutto cotto a cubetti beretta", "num" : 0, "qta" : 60},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 100}
+                        ]
+                    },
+                    {
+                        "id" : "Afternoon snack",
+                        "foodlist" : [
+                            {"id" : "crackers integrali", "num" : 1, "qta" : 30},
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 180}
+                        ]
+                    },
+                    {
+                        "id" : "Dinner",
+                        "foodlist" : [
+                            {"id" : "pane integrale", "num" : 0, "qta" : 50},
+                            {"id" : "merluzzo", "num" : 0, "qta" : 150},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 5},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 200}
+                        ]
+                    }
+                ] 
+            },
+            {
+                "id"    : "Thursday",
+                "menu"  : [
+                    {
+                        "id" : "Breakfast",
+                        "foodlist" : [
+                            {"id" : "yogurt bianco activia 0%", "num" : 1, "qta" : 130},
+                            {"id" : "fette biscottate", "num" : 0, "qta" : 30},
+                            {"id" : "marmellata (normale e tipo frutta viva)", "num" : 0, "qta" : 15}
+                        ]
+                    },
+                    {
+                        "id" : "Snack",
+                        "foodlist" : [
+                            {"id" : "pane di segale", "num" : 0, "qta" : 50},
+                            {"id" : "fesa di tacchino", "num" : 0, "qta" : 50}
+                        ]
+                    },
+                    {
+                        "id" : "Snack 2",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Lunch",
+                        "foodlist" : [
+                            {"id" : "pasta di semola", "num" : 0, "qta" : 80},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "parmigiano reggiano", "num" : 0, "qta" : 30},
+                            {"id" : "ceci valfrutta in vetro", "num" : 0, "qta" : 80},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 100}
+                        ]
+                    },
+                    {
+                        "id" : "Afternoon snack",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Dinner",
+                        "foodlist" : [
+                            {"id" : "pane integrale", "num" : 0, "qta" : 50},
+                            {"id" : "mozzarella light milbona", "num" : 1, "qta" : 90},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 100}
+                        ]
+                    }
+                ] 
+            },
+            {
+                "id"    : "Friday",
+                "menu"  : [
+                    {
+                        "id" : "Breakfast",
+                        "foodlist" : [
+                            {"id" : "yogurt bianco activia 0%", "num" : 1, "qta" : 130},
+                            {"id" : "pane di segale", "num" : 0, "qta" : 50},
+                            {"id" : "marmellata (normale e tipo frutta viva)", "num" : 0, "qta" : 20}
+                        ]
+                    },
+                    {
+                        "id" : "Snack",
+                        "foodlist" : [
+                            {"id" : "fage total 0% split cup", "num" : 1, "qta" : 170}
+                        ]
+                    },
+                    {
+                        "id" : "Snack 2",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Lunch",
+                        "foodlist" : [
+                            {"id" : "riso basmati", "num" : 0, "qta" : 80},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "salmone norvegese affumicato", "num" : 0, "qta" : 60},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 100}
+                        ]
+                    },
+                    {
+                        "id" : "Afternoon snack",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Dinner",
+                        "foodlist" : [
+                            {"id" : "pane integrale", "num" : 0, "qta" : 60},
+                            {"id" : "uova di gallina", "num" : 1, "qta" : 60},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 5},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 200}
+                        ]
+                    }
+                ] 
+            },
+            {
+                "id"    : "Saturday",
+                "menu"  : [
+                    {
+                        "id" : "Breakfast",
+                        "foodlist" : [
+                            {"id" : "vitalis porridge classico", "num" : 1, "qta" : 50}
+                        ]
+                    },
+                    {
+                        "id" : "Snack",
+                        "foodlist" : [
+                            {"id" : "cioccolato extra fondente 85% lindt", "num" : 0, "qta" : 10}
+                        ]
+                    },
+                    {
+                        "id" : "Snack 2",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Lunch",
+                        "foodlist" : [
+                            {"id" : "patate", "num" : 0, "qta" : 120},
+                            {"id" : "coscia di pollo (senza pelle e ossa)", "num" : 0, "qta" : 130},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 200}
+                        ]
+                    },
+                    {
+                        "id" : "Afternoon snack",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150},
+                            {"id" : "parmigiano reggiano", "num" : 0, "qta" : 20}
+                        ]
+                    },
+                    {
+                        "id" : "Dinner",
+                        "foodlist" : [
+                            {"id" : "pasto libero", "num" : 0, "qta" : 100}
+                        ]
+                    }
+                ] 
+            },
+            {
+                "id"    : "Sunday",
+                "menu"  : [
+                    {
+                        "id" : "Breakfast",
+                        "foodlist" : [
+                            {"id" : "pane di segale", "num" : 0, "qta" : 60},
+                            {"id" : "fesa di tacchino", "num" : 0, "qta" : 50}
+                        ]
+                    },
+                    {
+                        "id" : "Snack",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 150}
+                        ]
+                    },
+                    {
+                        "id" : "Lunch",
+                        "foodlist" : [
+                            {"id" : "gnocchetti di patate giovanni rana", "num" : 0, "qta" : 250},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "mozzarella light milbona", "num" : 1, "qta" : 90},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 100}
+                        ]
+                    },
+                    {
+                        "id" : "Afternoon snack",
+                        "foodlist" : [
+                            {"id" : "frutta fresca", "num" : 0, "qta" : 200}
+                        ]
+                    },
+                    {
+                        "id" : "Dinner",
+                        "foodlist" : [
+                            {"id" : "pane integrale", "num" : 0, "qta" : 50},
+                            {"id" : "tartare di scottona magra fiorani", "num" : 0, "qta" : 130},
+                            {"id" : "olio di oliva extravergine", "num" : 0, "qta" : 10},
+                            {"id" : "verdure o ortaggi", "num" : 0, "qta" : 200}
+                        ]
+                    }
+                ] 
+            }
+        ]
+    }
+]
